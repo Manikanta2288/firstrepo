@@ -1,0 +1,13 @@
+import java.io.*;
+import java.util.*;
+ clas area 
+{
+abstract void tri(float b,float h)
+void class(float r)
+{
+a=3.14f*r*r;
+System.out.println("area of circle="+a);      
+{
+void tri(float b,float h)
+{ 
+float len
